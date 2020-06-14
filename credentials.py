@@ -1,2 +1,2 @@
-username = "redi.dev"
-password = ".netFramework"
+username = "xxxxxxx"
+password = "xxxxxxx"
