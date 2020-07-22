@@ -1,6 +1,6 @@
 from instapy import InstaPy
 
-session = InstaPy(username="your username here...", password="your password here...", headless_browser=True)
+session = InstaPy(username="your username here...", password="your password here...")
 session.login()
 
 #following section
