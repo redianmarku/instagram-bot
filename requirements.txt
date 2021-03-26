@@ -19,7 +19,7 @@ plyer==1.4.3
 protobuf==3.12.2
 pycparser==2.20
 python-telegram-bot==12.7
-PyYAML==5.3.1
+PyYAML==5.4
 regex==2020.6.8
 requests==2.23.0
 selenium==3.141.0
