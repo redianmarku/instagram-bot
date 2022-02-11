@@ -16,7 +16,7 @@ instapy==0.6.8
 jsonschema==2.6.0
 MeaningCloud-python==1.2.2
 plyer==1.4.3
-protobuf==3.12.2
+protobuf==3.15.0
 pycparser==2.20
 python-telegram-bot==12.7
 PyYAML==5.4
