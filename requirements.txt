@@ -8,7 +8,7 @@ cryptography==39.0.1
 decorator==4.4.2
 EasyProcess==0.3
 emoji==0.5.4
-future==0.18.2
+future==0.18.3
 googleapis-common-protos==1.52.0
 grpcio==1.29.0
 idna==2.9
